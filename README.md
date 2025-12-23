@@ -1,50 +1,50 @@
-# 🌍 Travelora – Smart Travel Planning & Booking Website
+# 🌍 Travelora — Smart Travel Planning & Booking Website
 
-Travelora is a modern **full-stack travel planning and booking web application** that allows users to explore destinations, discover attractions, book hotels, manage bookings, and save favorite places — all from a single platform.
-
-This project demonstrates real-world use of **React**, **API integration**, **authentication**, and **map-based location features**.
+Travelora is a modern **full-stack travel planning and booking web application** that allows users to explore destinations, discover attractions, book hotels, manage bookings, and save favorite places — all from a single platform.This project is designed to simulate a **real-world travel platform** with map integration, booking management, authentication, and external API usage.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Overview
 
-🎥 Project Demo Video  
-https://drive.google.com/file/d/1ToIkOCPxgv39z66qp-5dCoXBmlvqYLKK/view  
+Travelora helps users:
+- Discover tourist attractions across cities
+- Find nearby places using map & radius search
+- Book hotels and travel packages
+- Manage bookings and bookmarks in a personalized dashboard
 
-💻 GitHub Repository  
-https://github.com/saipranathi2296/Travellora  
+The platform combines **local data + external APIs** to provide a rich and premium travel experience.
 
 ---
 
-## 📌 Features
+## ✨ Features
 
-### 🔍 Explore Destinations
+### 🔍 Explore Destinations & Trips
 - Search cities and tourist attractions
-- Local + external data support
 - Radius-based search using distance slider
-- Geoapify API integration
+- Local + external data (Geoapify API)
+- External places tagged separately
 
 ### 🏨 Hotel Booking
-- View hotel details, images, ratings, and pricing
-- Book hotels with date, room, and guest selection
+- View hotel details (images, pricing, ratings)
+- Select dates, rooms, and guests
 - Automatic total price calculation
-- Booking confirmation and cancellation
+- Booking confirmation & cancellation
 
 ### 🗺️ Map Integration
-- Interactive maps with place markers
-- Displays exact location of attractions
-- Enhances visual navigation experience
+- Interactive maps showing exact location
+- Marker-based place visualization
+- Enhances navigation and user experience
 
 ### ❤️ Bookmarks
 - Save favorite places and hotels
+- Add / remove bookmarks instantly
 - Synced with user profile
-- Instant add/remove functionality
 
 ### 📦 Travel Packages
 - Predefined travel plans
 - Detailed itineraries
 - Inclusions & exclusions
-- Price and duration display
+- Duration and pricing details
 
 ### 📊 User Dashboard
 - Personalized dashboard after login
@@ -54,38 +54,31 @@ https://github.com/saipranathi2296/Travellora
 - Quick navigation to key sections
 
 ### 📅 My Bookings
-- View only confirmed bookings
-- Booking details:
-  - Hotel
-  - Dates
-  - Guests & rooms
+- View only **confirmed bookings**
+- Booking details include:
+  - Hotel name & location
+  - Dates, rooms, guests
   - Total price
-- Cancel booking option
+- Cancel booking option (real-time update)
 
 ### 🔐 Authentication
-- User login & registration
+- User registration & login
 - Session persistence using localStorage
-- Protected routes
+- Protected routes for authenticated users
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- React.js
-- React Router DOM
-- Tailwind CSS
-- Lucide Icons
-- Axios
+| Layer | Technologies |
+|------|-------------|
+| **Frontend** | React.js, React Router DOM |
+| **Styling** | Tailwind CSS |
+| **Icons** | Lucide Icons |
+| **Backend (Mock API)** | JSON Server |
+| **API Calls** | Axios |
+| **Maps & Places API** | Geoapify API |
+| **State Management** | React Context API |
+| **Version Control** | Git & GitHub |
 
-### Backend (Mock API)
-- JSON Server
-- REST APIs for users, places, hotels, bookings, and packages
-
-### External APIs
-- Geoapify API (Geocoding, Nearby Places, Maps)
-
----
-
-## 📁 Project Structure
 

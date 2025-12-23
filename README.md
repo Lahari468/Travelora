@@ -2,7 +2,6 @@
 
 Travelora is a modern **full-stack travel planning and booking web application** that allows users to explore destinations, discover attractions, book hotels, manage bookings, and save favorite places — all from a single platform.This project is designed to simulate a **real-world travel platform** with map integration, booking management, authentication, and external API usage.
 
----
 
 ## 🚀 Overview
 
@@ -14,7 +13,6 @@ Travelora helps users:
 
 The platform combines **local data + external APIs** to provide a rich and premium travel experience.
 
----
 
 ## ✨ Features
 
@@ -66,7 +64,6 @@ The platform combines **local data + external APIs** to provide a rich and premi
 - Session persistence using localStorage
 - Protected routes for authenticated users
 
----
 
 ## 🛠️ Tech Stack
 

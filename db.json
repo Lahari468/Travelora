@@ -1,0 +1,2154 @@
+{
+  "users": [
+    {
+      "id": "8eb8",
+      "name": "pranathi",
+      "email": "vpranathi900@gmail.com",
+      "password": "12345",
+      "trips": [],
+      "bookings": [],
+      "bookmarks": [
+        {
+          "id": "5",
+          "name": "Grand Canyon",
+          "country": "USA",
+          "city": "Arizona",
+          "description": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).",
+          "lat": 36.1069,
+          "lng": -112.1129,
+          "images": [
+            "https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?q=80&w=1000&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1527333656061-ca7adf608ae1?q=80&w=1000&auto=format&fit=crop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0519",
+      "name": "DHANUSSH SHREKAR",
+      "email": "sarpoordhanush@gmail.com",
+      "password": "12345",
+      "trips": [],
+      "bookings": [],
+      "bookmarks": [
+        {
+          "id": "1",
+          "name": "Taj Mahal",
+          "country": "India",
+          "city": "Agra",
+          "description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.",
+          "lat": 27.1751,
+          "lng": 78.0421,
+          "images": [
+            "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1000&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1000&auto=format&fit=crop"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Great Wall of China",
+          "country": "China",
+          "city": "Beijing",
+          "description": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe.",
+          "lat": 40.4319,
+          "lng": 116.5704,
+          "images": [
+            "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1543097692-fa13c6cd8595?q=80&w=1000&auto=format&fit=crop"
+          ]
+        },
+        {
+          "id": "51d06e884cd4005440592f61d7dbc1532e40f00103f901b0b92dca00000000920312425220416d6265646b617220537461747565",
+          "place_id": "51d06e884cd4005440592f61d7dbc1532e40f00103f901b0b92dca00000000920312425220416d6265646b617220537461747565",
+          "name": "BR Ambedkar Statue",
+          "city": "Ulvapadu",
+          "country": "India",
+          "description": "BR Ambedkar Statue, BR Ambedkar Road, Ulvapadu - 523292, Andhra Pradesh, India",
+          "images": [
+            "https://picsum.photos/seed/51d06e884cd4005440592f61d7dbc1532e40f00103f901b0b92dca00000000920312425220416d6265646b617220537461747565/300/200"
+          ],
+          "isExternal": true,
+          "lat": 15.1635884,
+          "lon": 80.0129577
+        }
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "1",
+      "name": "Taj Mahal",
+      "country": "India",
+      "city": "Agra",
+      "description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.",
+      "lat": 27.1751,
+      "lng": 78.0421,
+      "images": [
+        "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Eiffel Tower",
+      "country": "France",
+      "city": "Paris",
+      "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+      "lat": 48.8584,
+      "lng": 2.2945,
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1719430569503-338fc89eb21f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZWZmaWVsJTIwdG93ZXJ8ZW58MHx8MHx8fDA%3D",
+        "https://plus.unsplash.com/premium_photo-1719430569503-338fc89eb21f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZWZmaWVsJTIwdG93ZXJ8ZW58MHx8MHx8fDA%3D"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Great Wall of China",
+      "country": "China",
+      "city": "Beijing",
+      "description": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe.",
+      "lat": 40.4319,
+      "lng": 116.5704,
+      "images": [
+        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1543097692-fa13c6cd8595?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "city": "Cusco",
+      "description": "Machu Picchu is a 15th-century Inca citadel, located in the Eastern Cordillera of southern Peru, on a 2,430-metre (7,970 ft) mountain ridge.",
+      "lat": -13.1631,
+      "lng": -72.545,
+      "images": [
+        "https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1587595431973-160d0d94add1?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Grand Canyon",
+      "country": "USA",
+      "city": "Arizona",
+      "description": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).",
+      "lat": 36.1069,
+      "lng": -112.1129,
+      "images": [
+        "https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1527333656061-ca7adf608ae1?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Santorini",
+      "country": "Greece",
+      "city": "Thira",
+      "description": "Santorini is one of the Cyclades islands in the Aegean Sea. It was devastated by a volcanic eruption in the 16th century BC, forever shaping its rugged landscape.",
+      "lat": 36.3932,
+      "lng": 25.4615,
+      "images": [
+        "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1613395877344-13d4c79e4284?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Kyoto",
+      "country": "Japan",
+      "city": "Kyoto",
+      "description": "Kyoto, once the capital of Japan, is a city on the island of Honshu. It's famous for its numerous classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines and traditional wooden houses.",
+      "lat": 35.0116,
+      "lng": 135.7681,
+      "images": [
+        "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1624253321171-1be53e12f5f4?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "description": "Rio de Janeiro is a huge seaside city in Brazil, famous for its Copacabana and Ipanema beaches, 38m Christ the Redeemer statue atop Mount Corcovado and for Sugarloaf Mountain, a granite peak with cable cars to its summit.",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "images": [
+        "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Cape Town",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "description": "Cape Town is a port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain. Slowly rotating cable cars climb to the mountain’s flat top, from which there are sweeping views of the city.",
+      "lat": -33.9249,
+      "lng": 18.4241,
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1697730061063-ad499e343f26?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FwZSUyMHRvd258ZW58MHx8MHx8fDA%3D",
+        "https://plus.unsplash.com/premium_photo-1697730061063-ad499e343f26?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FwZSUyMHRvd258ZW58MHx8MHx8fDA%3D"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "New York City",
+      "country": "USA",
+      "city": "New York",
+      "description": "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers.",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "images": [
+        "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Burj Khalifa",
+      "country": "UAE",
+      "city": "Dubai",
+      "description": "The Burj Khalifa is the tallest building in the world, offering breathtaking panoramic views of Dubai from its observation decks.",
+      "lat": 25.1972,
+      "lng": 55.2744,
+      "images": [
+        "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Colosseum",
+      "country": "Italy",
+      "city": "Rome",
+      "description": "The Colosseum is an ancient amphitheater and one of Rome’s most iconic architectural marvels, symbolizing the might of the Roman Empire.",
+      "lat": 41.8902,
+      "lng": 12.4922,
+      "images": [
+        "https://images.unsplash.com/photo-1526045612212-70caf35c14df?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Sydney Opera House",
+      "country": "Australia",
+      "city": "Sydney",
+      "description": "The Sydney Opera House is a multi-venue performing arts center and an iconic landmark known for its unique architectural design.",
+      "lat": -33.8568,
+      "lng": 151.2153,
+      "images": [
+        "https://images.unsplash.com/photo-1506084868230-bb9d95c24759?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505705694340-019e1e335916?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Niagara Falls",
+      "country": "Canada",
+      "city": "Ontario",
+      "description": "Niagara Falls is a group of three waterfalls located on the border of Ontario and New York, famous for their massive flow and scenic views.",
+      "lat": 43.0962,
+      "lng": -79.0377,
+      "images": [
+        "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1519669556878-63bdad8a201f?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Mount Fuji",
+      "country": "Japan",
+      "city": "Honshu Island",
+      "description": "Mount Fuji is the highest mountain in Japan and a beloved cultural symbol, drawing climbers and artists alike.",
+      "lat": 35.3606,
+      "lng": 138.7274,
+      "images": [
+        "https://media.istockphoto.com/id/1209179656/photo/mount-bandaisan-in-the-spring.webp?a=1&b=1&s=612x612&w=0&k=20&c=S6uVTl-nNkIhiR3nw7hs-CO-tdmdeFzeEnYTIhl2Zqk=",
+        "https://media.istockphoto.com/id/1209179656/photo/mount-bandaisan-in-the-spring.webp?a=1&b=1&s=612x612&w=0&k=20&c=S6uVTl-nNkIhiR3nw7hs-CO-tdmdeFzeEnYTIhl2Zqk="
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Statue of Liberty",
+      "country": "USA",
+      "city": "New York",
+      "description": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island, symbolizing freedom and democracy.",
+      "lat": 40.6892,
+      "lng": -74.0445,
+      "images": [
+        "https://images.unsplash.com/photo-1478562853135-c3c9e3ef7905?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507400492013-162706c8c05c?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Banff National Park",
+      "country": "Canada",
+      "city": "Alberta",
+      "description": "Banff National Park is a world-famous destination known for its pristine lakes, mountains, and wildlife.",
+      "lat": 51.4968,
+      "lng": -115.9281,
+      "images": [
+        "https://images.unsplash.com/photo-1732025057859-7ac0ed174cbd?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Qm5hZiUyMG5hdGlvbmFsJTIwcGFya3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1732025057859-7ac0ed174cbd?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Qm5hZiUyMG5hdGlvbmFsJTIwcGFya3xlbnwwfHwwfHx8MA%3D%3D"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Times Square",
+      "country": "USA",
+      "city": "New York",
+      "description": "Times Square is a vibrant commercial and entertainment hub known for its bright lights and Broadway theaters.",
+      "lat": 40.758,
+      "lng": -73.9855,
+      "images": [
+        "https://images.unsplash.com/photo-1500048993953-d23a436266cf?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1500534623283-312aade485b7?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Petra",
+      "country": "Jordan",
+      "city": "Petra",
+      "description": "Petra is an archaeological city famous for its rock-cut architecture and water conduit system.",
+      "lat": 30.3285,
+      "lng": 35.4444,
+      "images": [
+        "https://images.unsplash.com/photo-1580834341580-8c17a3a630ca?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGV0cmF8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1580834341580-8c17a3a630ca?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGV0cmF8ZW58MHx8MHx8fDA%3D"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Ha Long Bay",
+      "country": "Vietnam",
+      "city": "Quang Ninh",
+      "description": "Ha Long Bay is known for emerald waters and thousands of towering limestone islands topped with rainforests.",
+      "lat": 20.9101,
+      "lng": 107.1839,
+      "images": [
+        "https://images.unsplash.com/photo-1643029891412-92f9a81a8c16?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGElMjBsb25nJTIwYmF5fGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1643029891412-92f9a81a8c16?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGElMjBsb25nJTIwYmF5fGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Angkor Wat",
+      "country": "Cambodia",
+      "city": "Siem Reap",
+      "description": "Angkor Wat is the largest religious monument in the world and a stunning example of Khmer architecture.",
+      "lat": 13.4125,
+      "lng": 103.867,
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1697729951975-32dc41583f8f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW5na29yJTIwYmF0fGVufDB8fDB8fHww",
+        "https://plus.unsplash.com/premium_photo-1697729951975-32dc41583f8f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW5na29yJTIwYmF0fGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Istanbul Hagia Sophia",
+      "country": "Turkey",
+      "city": "Istanbul",
+      "description": "Hagia Sophia is an architectural marvel and UNESCO World Heritage site with rich religious and cultural history.",
+      "lat": 41.0086,
+      "lng": 28.9802,
+      "images": [
+        "https://media.istockphoto.com/id/507551802/photo/istanbul-the-capital-of-turkey.webp?a=1&b=1&s=612x612&w=0&k=20&c=2CUwGTJvHEFRCvjjz4bQHQEwgW3cnMKBcLh6L0DFNPE=",
+        "https://media.istockphoto.com/id/507551802/photo/istanbul-the-capital-of-turkey.webp?a=1&b=1&s=612x612&w=0&k=20&c=2CUwGTJvHEFRCvjjz4bQHQEwgW3cnMKBcLh6L0DFNPE="
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Bora Bora",
+      "country": "French Polynesia",
+      "city": "Bora Bora",
+      "description": "Bora Bora is known for its turquoise waters, luxurious resorts, and volcanic mountains.",
+      "lat": -16.5004,
+      "lng": -151.7415,
+      "images": [
+        "https://images.unsplash.com/photo-1580725869538-9b164c27c44f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ym9yYSUyMGJvcmF8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1580725869538-9b164c27c44f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ym9yYSUyMGJvcmF8ZW58MHx8MHx8fDA%3D"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "London Big Ben",
+      "country": "United Kingdom",
+      "city": "London",
+      "description": "Big Ben is a famous clock tower located at the north end of the Palace of Westminster in London.",
+      "lat": 51.5007,
+      "lng": -0.1246,
+      "images": [
+        "https://images.unsplash.com/photo-1745016176874-cd3ed3f5bfc6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9uJTIwYmlnJTIwYmVufGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1745016176874-cd3ed3f5bfc6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9uJTIwYmlnJTIwYmVufGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Pyramids of Giza",
+      "country": "Egypt",
+      "city": "Giza",
+      "description": "The Pyramids of Giza are monumental tombs from ancient Egypt, including the Great Pyramid—one of the Seven Wonders of the Ancient World.",
+      "lat": 29.9792,
+      "lng": 31.1342,
+      "images": [
+        "https://images.unsplash.com/photo-1657206456333-a98e712df1a6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHB5cmFtaWRzJTIwZ2l6YXxlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1657206456333-a98e712df1a6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHB5cmFtaWRzJTIwZ2l6YXxlbnwwfHwwfHx8MA%3D%3D"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Maldives",
+      "country": "Maldives",
+      "city": "Male",
+      "description": "The Maldives is a tropical paradise known for white-sand beaches, coral reefs, and overwater villas.",
+      "lat": 3.2028,
+      "lng": 73.2207,
+      "images": [
+        "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1455659817273-f96807779a8a?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Mount Everest",
+      "country": "Nepal",
+      "city": "Himalayas",
+      "description": "Mount Everest is the highest mountain on Earth, attracting climbers from around the world.",
+      "lat": 27.9881,
+      "lng": 86.925,
+      "images": [
+        "https://images.unsplash.com/photo-1629185171801-ac685973a72a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW91bnQlMjBldmVyZXN0fGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1629185171801-ac685973a72a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW91bnQlMjBldmVyZXN0fGVufDB8fDB8fHww"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Disneyland",
+      "country": "USA",
+      "city": "California",
+      "description": "Disneyland is a world-famous theme park known for magical attractions and entertainment for all ages.",
+      "lat": 33.8121,
+      "lng": -117.919,
+      "images": [
+        "https://images.unsplash.com/photo-1605713635131-60df11253e9f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGRpc25leWxhbmR8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1605713635131-60df11253e9f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGRpc25leWxhbmR8ZW58MHx8MHx8fDA%3D"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Christ the Redeemer",
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "description": "Christ the Redeemer is a monumental statue and one of the New Seven Wonders of the World.",
+      "lat": -22.9519,
+      "lng": -43.2105,
+      "images": [
+        "https://media.istockphoto.com/id/1211453689/photo/sequoia-national-park-with-fresh-snowfall.webp?a=1&b=1&s=612x612&w=0&k=20&c=DsUGGKCIA4yZZyR6ExUZtL5hifR-o9P_Gq8W9bG0oIU=",
+        "https://media.istockphoto.com/id/1211453689/photo/sequoia-national-park-with-fresh-snowfall.webp?a=1&b=1&s=612x612&w=0&k=20&c=DsUGGKCIA4yZZyR6ExUZtL5hifR-o9P_Gq8W9bG0oIU="
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Yellowstone National Park",
+      "country": "USA",
+      "city": "Wyoming",
+      "description": "Yellowstone is the first U.S. national park, famous for geysers, hot springs, and rich wildlife.",
+      "lat": 44.428,
+      "lng": -110.5885,
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1694475648285-aefab04c1a77?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8eWVsbG93c3RvbmUlMjBuYXRpb25hbCUyMHBhcmt8ZW58MHx8MHx8fDA%3D",
+        "https://plus.unsplash.com/premium_photo-1694475648285-aefab04c1a77?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8eWVsbG93c3RvbmUlMjBuYXRpb25hbCUyMHBhcmt8ZW58MHx8MHx8fDA%3D"
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "id": "101",
+      "name": "Heritage View Hotel",
+      "placeId": "1",
+      "address": "Near Taj Mahal, Agra",
+      "lat": 27.1755,
+      "lng": 78.043,
+      "rating": 4.3,
+      "pricePerNight": 3200,
+      "amenities": [
+        "WiFi",
+        "AC",
+        "Breakfast"
+      ],
+      "roomsAvailable": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Oberoi Amarvilas",
+      "placeId": "1",
+      "address": "Taj East Gate Road, Agra",
+      "lat": 27.17,
+      "lng": 78.05,
+      "rating": 5,
+      "pricePerNight": 25000,
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Luxury Dining"
+      ],
+      "roomsAvailable": 0,
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "201",
+      "name": "Pullman Paris Tour Eiffel",
+      "placeId": "2",
+      "address": "18 Avenue De Suffren, Paris",
+      "lat": 48.855,
+      "lng": 2.293,
+      "rating": 4.5,
+      "pricePerNight": 18000,
+      "amenities": [
+        "View",
+        "Bar",
+        "Gym"
+      ],
+      "roomsAvailable": 5,
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "202",
+      "name": "Mercure Paris Centre",
+      "placeId": "2",
+      "address": "20 Rue Jean Rey, Paris",
+      "lat": 48.856,
+      "lng": 2.292,
+      "rating": 4,
+      "pricePerNight": 12000,
+      "amenities": [
+        "WiFi",
+        "Restaurant"
+      ],
+      "roomsAvailable": 14,
+      "images": [
+        "https://images.unsplash.com/photo-1564501049412-61c2a3083791?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "301",
+      "name": "The Great Wall Hotel",
+      "placeId": "3",
+      "address": "North Dongsanhuan Road, Beijing",
+      "lat": 39.94,
+      "lng": 116.46,
+      "rating": 4.2,
+      "pricePerNight": 8000,
+      "amenities": [
+        "Pool",
+        "Business Center"
+      ],
+      "roomsAvailable": 29,
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "302",
+      "name": "Commune by the Great Wall",
+      "placeId": "3",
+      "address": "Badaling Highway, Beijing",
+      "lat": 40.35,
+      "lng": 116,
+      "rating": 4.7,
+      "pricePerNight": 15000,
+      "amenities": [
+        "Nature",
+        "Private Villa"
+      ],
+      "roomsAvailable": 7,
+      "images": [
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "401",
+      "name": "Sanctuary Lodge",
+      "placeId": "4",
+      "address": "Machu Picchu, Cusco",
+      "lat": -13.163,
+      "lng": -72.545,
+      "rating": 4.8,
+      "pricePerNight": 40000,
+      "amenities": [
+        "Exclusive Access",
+        "Dining"
+      ],
+      "roomsAvailable": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "402",
+      "name": "Casa del Sol",
+      "placeId": "4",
+      "address": "Av. Imperio de los Incas, Aguas Calientes",
+      "lat": -13.155,
+      "lng": -72.525,
+      "rating": 4.4,
+      "pricePerNight": 9000,
+      "amenities": [
+        "River View",
+        "Spa"
+      ],
+      "roomsAvailable": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "501",
+      "name": "El Tovar Hotel",
+      "placeId": "5",
+      "address": "Grand Canyon Village, AZ",
+      "lat": 36.057,
+      "lng": -112.14,
+      "rating": 4.1,
+      "pricePerNight": 11000,
+      "amenities": [
+        "Historic",
+        "Dining"
+      ],
+      "roomsAvailable": 5,
+      "images": [
+        "https://images.unsplash.com/photo-1561501900-3701fa6a0864?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "502",
+      "name": "Bright Angel Lodge",
+      "placeId": "5",
+      "address": "Grand Canyon Village, AZ",
+      "lat": 36.056,
+      "lng": -112.142,
+      "rating": 3.9,
+      "pricePerNight": 6000,
+      "amenities": [
+        "Cabins",
+        "Budget"
+      ],
+      "roomsAvailable": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "601",
+      "name": "Katikies Hotel",
+      "placeId": "6",
+      "address": "Oia, Santorini",
+      "lat": 36.4618,
+      "lng": 25.3753,
+      "rating": 4.9,
+      "pricePerNight": 50000,
+      "amenities": [
+        "Infinity Pool",
+        "Sea View",
+        "Luxury"
+      ],
+      "roomsAvailable": 5,
+      "images": [
+        "https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "602",
+      "name": "Blue Domes Resort",
+      "placeId": "6",
+      "address": "Fira, Santorini",
+      "lat": 36.4166,
+      "lng": 25.4317,
+      "rating": 4.5,
+      "pricePerNight": 25000,
+      "amenities": [
+        "Pool",
+        "Breakfast",
+        "WiFi"
+      ],
+      "roomsAvailable": 12,
+      "images": [
+        "https://images.unsplash.com/photo-1554510273-5d33ce0937d8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGRvbXMlMjByZXNvcnR8ZW58MHx8MHx8fDA%3D"
+      ]
+    },
+    {
+      "id": "701",
+      "name": "Ritz-Carlton Kyoto",
+      "placeId": "7",
+      "address": "Nakagyo Ward, Kyoto",
+      "lat": 35.0116,
+      "lng": 135.77,
+      "rating": 5,
+      "pricePerNight": 60000,
+      "amenities": [
+        "River View",
+        "Spa",
+        "Fine Dining"
+      ],
+      "roomsAvailable": 8,
+      "images": [
+        "data:image/jpeg;base64,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"
+      ]
+    },
+    {
+      "id": "702",
+      "name": "Kyoto Granbell Hotel",
+      "placeId": "7",
+      "address": "Higashiyama Ward, Kyoto",
+      "lat": 35.0035,
+      "lng": 135.775,
+      "rating": 4.3,
+      "pricePerNight": 15000,
+      "amenities": [
+        "Modern",
+        "Bar",
+        "Bath"
+      ],
+      "roomsAvailable": 20,
+      "images": [
+        "https://images.unsplash.com/photo-1522798514-97ceb8c4f1c8?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "801",
+      "name": "Copacabana Palace",
+      "placeId": "8",
+      "address": "Avenida Atlântica, Rio",
+      "lat": -22.9673,
+      "lng": -43.1789,
+      "rating": 4.8,
+      "pricePerNight": 35000,
+      "amenities": [
+        "Beachfront",
+        "Pool",
+        "History"
+      ],
+      "roomsAvailable": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1583037189850-1921ae7c6c22?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "802",
+      "name": "Hotel Fasano",
+      "placeId": "8",
+      "address": "Ipanema, Rio",
+      "lat": -22.9871,
+      "lng": -43.2048,
+      "rating": 4.7,
+      "pricePerNight": 40000,
+      "amenities": [
+        "Rooftop Pool",
+        "Design",
+        "Bar"
+      ],
+      "roomsAvailable": 6,
+      "images": [
+        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "901",
+      "name": "The Silo Hotel",
+      "placeId": "9",
+      "address": "V&A Waterfront, Cape Town",
+      "lat": -33.9085,
+      "lng": 18.4225,
+      "rating": 4.9,
+      "pricePerNight": 55000,
+      "amenities": [
+        "Art",
+        "Harbor View",
+        "Rooftop"
+      ],
+      "roomsAvailable": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1590523278191-995cbcda646b?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "902",
+      "name": "One&Only Cape Town",
+      "placeId": "9",
+      "address": "Dock Rd, Cape Town",
+      "lat": -33.91,
+      "lng": 18.42,
+      "rating": 4.6,
+      "pricePerNight": 45000,
+      "amenities": [
+        "Spa",
+        "Island",
+        "Dining"
+      ],
+      "roomsAvailable": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1000&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "1001",
+      "name": "The Plaza",
+      "placeId": "10",
+      "address": "5th Avenue, New York",
+      "lat": 40.7644,
+      "lng": -73.9745,
+      "rating": 4.7,
+      "pricePerNight": 60000,
+      "amenities": [
+        "Iconic",
+        "Central Park",
+        "Luxury"
+      ],
+      "roomsAvailable": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1000&auto=format&fit=crop"
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "5001",
+      "userId": 1,
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-12-10",
+      "checkOut": "2025-12-13",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 9600,
+      "status": "confirmed"
+    },
+    {
+      "id": "1a58",
+      "userId": "80db",
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-11-30",
+      "checkOut": "2025-12-01",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 3584,
+      "status": "confirmed",
+      "createdAt": "2025-11-29T06:01:21.303Z"
+    },
+    {
+      "id": "3d61",
+      "userId": "80db",
+      "hotelId": "202",
+      "placeId": "2",
+      "checkIn": "2025-11-30",
+      "checkOut": "2025-12-01",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 13440,
+      "status": "confirmed",
+      "createdAt": "2025-11-29T09:24:44.146Z"
+    },
+    {
+      "id": "a037",
+      "userId": "80db",
+      "hotelId": "102",
+      "placeId": "1",
+      "checkIn": "2025-11-30",
+      "checkOut": "2025-12-01",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 28000,
+      "status": "cancelled",
+      "createdAt": "2025-11-29T09:44:32.703Z"
+    },
+    {
+      "id": "7c16",
+      "userId": "80db",
+      "hotelId": "302",
+      "placeId": "3",
+      "checkIn": "2025-11-30",
+      "checkOut": "2025-12-01",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 16800,
+      "status": "confirmed",
+      "createdAt": "2025-11-29T09:45:29.419Z"
+    },
+    {
+      "id": "d853",
+      "userId": "339f",
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-11-30",
+      "checkOut": "2025-12-01",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 3584,
+      "status": "confirmed",
+      "createdAt": "2025-11-29T11:06:37.600Z"
+    },
+    {
+      "id": "490b",
+      "userId": "8eb8",
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-11-30",
+      "checkOut": "2025-12-01",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 3584,
+      "status": "confirmed",
+      "createdAt": "2025-11-29T11:30:15.546Z"
+    },
+    {
+      "id": "1a04",
+      "userId": "8eb8",
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-11-30",
+      "checkOut": "2025-12-01",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 3584,
+      "status": "confirmed",
+      "createdAt": "2025-11-29T11:32:30.982Z"
+    },
+    {
+      "id": "c35f",
+      "userId": "8426",
+      "hotelId": "102",
+      "placeId": "1",
+      "checkIn": "2025-11-30",
+      "checkOut": "2025-12-01",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 28000,
+      "status": "cancelled",
+      "createdAt": "2025-11-29T13:09:32.345Z"
+    },
+    {
+      "id": "f19d",
+      "userId": "6da0",
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-12-01",
+      "checkOut": "2025-12-02",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 3584,
+      "status": "confirmed",
+      "createdAt": "2025-11-30T15:40:48.326Z"
+    },
+    {
+      "id": "416b",
+      "userId": null,
+      "hotelId": "102",
+      "placeId": "1",
+      "checkIn": "2025-12-01",
+      "checkOut": "2025-12-02",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 28000,
+      "status": "cancelled",
+      "createdAt": "2025-11-30T15:49:48.281Z"
+    },
+    {
+      "id": "68eb",
+      "userId": "0519",
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-01",
+      "checkOut": "2025-12-02",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "confirmed",
+      "createdAt": "2025-11-30T15:53:28.817Z"
+    },
+    {
+      "id": "9225",
+      "userId": null,
+      "hotelId": "102",
+      "placeId": "1",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 28000,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T05:14:26.258Z"
+    },
+    {
+      "id": "fa9a",
+      "packageId": "14",
+      "packageName": "Rim-to-Rim Hike",
+      "price": 10000,
+      "userEmail": "abac@gmail.com",
+      "status": "pending",
+      "createdAt": "2025-12-23T06:10:14.895Z"
+    },
+    {
+      "id": "866b",
+      "userId": null,
+      "hotelId": "102",
+      "placeId": "1",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 28000,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:10:26.694Z"
+    },
+    {
+      "id": "227b",
+      "packageId": "2",
+      "packageName": "Golden Triangle",
+      "price": 25000,
+      "userEmail": "abac@gmail.com",
+      "status": "pending",
+      "createdAt": "2025-12-23T06:10:41.561Z"
+    },
+    {
+      "id": "af34",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:11:18.311Z"
+    },
+    {
+      "id": "55cf",
+      "packageId": "2",
+      "packageName": "Golden Triangle",
+      "price": 25000,
+      "userEmail": "abac@gmail.com",
+      "status": "pending",
+      "createdAt": "2025-12-23T06:16:35.045Z"
+    },
+    {
+      "id": "df0a",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:18:44.059Z"
+    },
+    {
+      "id": "7d2d",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:24:32.144Z"
+    },
+    {
+      "id": "b6c7",
+      "userId": null,
+      "hotelId": "901",
+      "placeId": "9",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 61600,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:27:28.731Z"
+    },
+    {
+      "id": "da3a",
+      "packageId": "2",
+      "packageName": "Golden Triangle",
+      "price": 25000,
+      "userEmail": "abac@gmail.com",
+      "status": "pending",
+      "createdAt": "2025-12-23T06:27:39.576Z"
+    },
+    {
+      "id": "516a",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:30:52.294Z"
+    },
+    {
+      "id": "c6d3",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:31:13.745Z"
+    },
+    {
+      "id": "b8a3",
+      "packageId": "2",
+      "packageName": "Golden Triangle",
+      "price": 25000,
+      "userEmail": "abac@gmail.com",
+      "status": "pending",
+      "createdAt": "2025-12-23T06:34:59.717Z"
+    },
+    {
+      "id": "e0d4",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:36:11.110Z"
+    },
+    {
+      "id": "18ab",
+      "userId": null,
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 3584,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:36:58.045Z"
+    },
+    {
+      "id": "3360",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:38:30.038Z"
+    },
+    {
+      "id": "54d7",
+      "type": "hotel",
+      "userId": null,
+      "hotelId": "102",
+      "placeId": "1",
+      "checkIn": "",
+      "checkOut": "",
+      "guests": 1,
+      "rooms": 1,
+      "totalPrice": null,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T06:43:30.892Z"
+    },
+    {
+      "id": "13f0",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T11:52:08.484Z"
+    },
+    {
+      "id": "6679",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T11:58:24.376Z"
+    },
+    {
+      "id": "4bf2",
+      "userId": null,
+      "hotelId": "301",
+      "placeId": "3",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 8960,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T11:59:41.062Z"
+    },
+    {
+      "id": "fd24",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T12:00:48.032Z"
+    },
+    {
+      "id": "585b",
+      "userId": null,
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 3584,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T12:02:02.147Z"
+    },
+    {
+      "id": "8659",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T12:06:30.640Z"
+    },
+    {
+      "id": "f586",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T12:10:33.522Z"
+    },
+    {
+      "id": "cb86",
+      "userId": null,
+      "hotelId": "101",
+      "placeId": "1",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 3584,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T12:19:32.022Z"
+    },
+    {
+      "id": "6aa0",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "cancelled",
+      "createdAt": "2025-12-23T12:22:10.597Z"
+    },
+    {
+      "id": "5cca",
+      "userId": null,
+      "hotelId": "201",
+      "placeId": "2",
+      "checkIn": "2025-12-24",
+      "checkOut": "2025-12-25",
+      "guests": 2,
+      "rooms": 1,
+      "totalPrice": 20160,
+      "status": "confirmed",
+      "createdAt": "2025-12-23T12:22:45.031Z"
+    }
+  ],
+  "packages": [
+    {
+      "id": "1",
+      "placeId": "1",
+      "name": "Taj Day Tour",
+      "price": 5000,
+      "duration": "1 Day",
+      "highlights": [
+        "Guided Tour",
+        "Lunch",
+        "Transport"
+      ],
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival & Tour",
+          "description": "Pick up from Delhi, drive to Agra. Visit Taj Mahal and Agra Fort. Lunch at 5-star hotel. Return to Delhi."
+        }
+      ],
+      "inclusions": [
+        "Private AC Car",
+        "Tour Guide",
+        "Lunch Buffet",
+        "Monument Tickets"
+      ],
+      "exclusions": [
+        "Tips",
+        "Personal Expenses"
+      ]
+    },
+    {
+      "id": "2",
+      "placeId": "1",
+      "name": "Golden Triangle",
+      "price": 25000,
+      "duration": "5 Days",
+      "highlights": [
+        "Delhi",
+        "Agra",
+        "Jaipur"
+      ],
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Delhi Sightseeing",
+          "description": "Visit Qutub Minar, Lotus Temple, and India Gate."
+        },
+        {
+          "day": 2,
+          "title": "Delhi to Agra",
+          "description": "Drive to Agra. Visit Taj Mahal at sunset."
+        },
+        {
+          "day": 3,
+          "title": "Agra to Jaipur",
+          "description": "Visit Fatehpur Sikri en route to Jaipur."
+        },
+        {
+          "day": 4,
+          "title": "Jaipur Tour",
+          "description": "Amber Fort, City Palace, and Hawa Mahal."
+        },
+        {
+          "day": 5,
+          "title": "Return to Delhi",
+          "description": "Shopping in Jaipur and drive back to Delhi."
+        }
+      ],
+      "inclusions": [
+        "Accommodation",
+        "Breakfast",
+        "Transport",
+        "Guide"
+      ],
+      "exclusions": [
+        "Flights",
+        "Lunch & Dinner",
+        "Entry Fees"
+      ]
+    },
+    {
+      "id": "3",
+      "placeId": "1",
+      "name": "Agra Heritage Walk",
+      "price": 2000,
+      "duration": "4 Hours",
+      "highlights": [
+        "Old City",
+        "Street Food",
+        "Culture"
+      ],
+      "image": "https://images.unsplash.com/photo-1598324789736-4861f89564a0?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Walking Tour",
+          "description": "Explore the hidden lanes of Agra, taste local street food, and visit ancient mosques."
+        }
+      ],
+      "inclusions": [
+        "Guide",
+        "Food Tasting"
+      ],
+      "exclusions": [
+        "Transport to meeting point"
+      ]
+    },
+    {
+      "id": "4",
+      "placeId": "2",
+      "name": "Paris Romance",
+      "price": 40000,
+      "duration": "3 Days",
+      "highlights": [
+        "Dinner Cruise",
+        "Eiffel Access",
+        "Wine Tasting"
+      ],
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival & Cruise",
+          "description": "Arrival in Paris. Evening Seine River Dinner Cruise."
+        },
+        {
+          "day": 2,
+          "title": "Eiffel & Montmartre",
+          "description": "Skip-the-line Eiffel Tower access. Afternoon walking tour of Montmartre."
+        },
+        {
+          "day": 3,
+          "title": "Wine & Departure",
+          "description": "Wine tasting session in Le Marais. Departure."
+        }
+      ],
+      "inclusions": [
+        "Hotel Stay",
+        "Cruise Dinner",
+        "Eiffel Tickets",
+        "Wine Tasting"
+      ],
+      "exclusions": [
+        "Flights",
+        "City Tax",
+        "Metro Tickets"
+      ]
+    },
+    {
+      "id": "5",
+      "placeId": "2",
+      "name": "Louvre & Tower",
+      "price": 15000,
+      "duration": "2 Days",
+      "highlights": [
+        "Museum Pass",
+        "Skip Line",
+        "City Tour"
+      ],
+      "image": "https://plus.unsplash.com/premium_photo-1661962571049-792ae9be2d79?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TG91dnJlJTIwJTI2JTIwVG93ZXxlbnwwfHwwfHx8MA%3D%3D",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Louvre Museum",
+          "description": "Guided tour of the Louvre Museum. See the Mona Lisa."
+        },
+        {
+          "day": 2,
+          "title": "City Tour",
+          "description": "Hop-on Hop-off bus tour of Paris major attractions."
+        }
+      ],
+      "inclusions": [
+        "Museum Pass",
+        "Bus Tickets"
+      ],
+      "exclusions": [
+        "Accommodation",
+        "Food"
+      ]
+    },
+    {
+      "id": "6",
+      "placeId": "2",
+      "name": "Seine Cruise",
+      "price": 5000,
+      "duration": "2 Hours",
+      "highlights": [
+        "Boat Ride",
+        "Sightseeing",
+        "Audio Guide"
+      ],
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Cruise",
+          "description": "1-hour sightseeing cruise on the Seine with audio guide."
+        }
+      ],
+      "inclusions": [
+        "Cruise Ticket"
+      ],
+      "exclusions": [
+        "Food & Drinks",
+        "Hotel Pickup"
+      ]
+    },
+    {
+      "id": "7",
+      "placeId": "3",
+      "name": "Great Wall Hike",
+      "price": 8000,
+      "duration": "1 Day",
+      "highlights": [
+        "Hiking",
+        "Lunch",
+        "Transfer"
+      ],
+      "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Hiking Adventure",
+          "description": "Hike from Jinshanling to Simatai West. Authentic Great Wall experience."
+        }
+      ],
+      "inclusions": [
+        "Transport",
+        "Guide",
+        "Lunch",
+        "Entrance Fees"
+      ],
+      "exclusions": [
+        "Cable Car"
+      ]
+    },
+    {
+      "id": "8",
+      "placeId": "3",
+      "name": "Beijing Explorer",
+      "price": 20000,
+      "duration": "4 Days",
+      "highlights": [
+        "Forbidden City",
+        "Temple of Heaven",
+        "Great Wall"
+      ],
+      "image": "https://images.unsplash.com/photo-1543097692-fa13c6cd8595?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival",
+          "description": "Airport pickup and transfer to hotel."
+        },
+        {
+          "day": 2,
+          "title": "City Highlights",
+          "description": "Tiananmen Square, Forbidden City, and Temple of Heaven."
+        },
+        {
+          "day": 3,
+          "title": "Great Wall",
+          "description": "Mutianyu Great Wall tour with cable car."
+        },
+        {
+          "day": 4,
+          "title": "Summer Palace",
+          "description": "Visit Summer Palace and departure."
+        }
+      ],
+      "inclusions": [
+        "Hotel",
+        "Breakfast",
+        "Tours",
+        "Transfers"
+      ],
+      "exclusions": [
+        "Flights",
+        "Visa Fees"
+      ]
+    },
+    {
+      "id": "9",
+      "placeId": "3",
+      "name": "Mutianyu Section",
+      "price": 6000,
+      "duration": "1 Day",
+      "highlights": [
+        "Cable Car",
+        "Toboggan",
+        "Views"
+      ],
+      "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Mutianyu Tour",
+          "description": "Visit Mutianyu section. Take cable car up and toboggan down."
+        }
+      ],
+      "inclusions": [
+        "Transport",
+        "Tickets",
+        "Lunch"
+      ],
+      "exclusions": [
+        "Personal Expenses"
+      ]
+    },
+    {
+      "id": "10",
+      "placeId": "4",
+      "name": "Inca Trail",
+      "price": 50000,
+      "duration": "4 Days",
+      "highlights": [
+        "Trekking",
+        "Camping",
+        "Machu Picchu"
+      ],
+      "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Cusco to Wayllabamba",
+          "description": "Start trekking from Km 82."
+        },
+        {
+          "day": 2,
+          "title": "Dead Woman's Pass",
+          "description": "Challenging hike to the highest point."
+        },
+        {
+          "day": 3,
+          "title": "Cloud Forest",
+          "description": "Trek through cloud forests and Inca sites."
+        },
+        {
+          "day": 4,
+          "title": "Machu Picchu",
+          "description": "Arrive at Sun Gate for sunrise over Machu Picchu."
+        }
+      ],
+      "inclusions": [
+        "Permits",
+        "Camping Gear",
+        "Meals",
+        "Porters"
+      ],
+      "exclusions": [
+        "Sleeping Bag",
+        "Tips"
+      ]
+    },
+    {
+      "id": "11",
+      "placeId": "4",
+      "name": "Cusco & Sacred Valley",
+      "price": 30000,
+      "duration": "3 Days",
+      "highlights": [
+        "Ruins",
+        "Markets",
+        "Train Ride"
+      ],
+      "image": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Cusco City",
+          "description": "Tour of Cusco cathedral and nearby ruins."
+        },
+        {
+          "day": 2,
+          "title": "Sacred Valley",
+          "description": "Visit Pisac market and Ollantaytambo fortress."
+        },
+        {
+          "day": 3,
+          "title": "Machu Picchu",
+          "description": "Train to Aguas Calientes and Machu Picchu tour."
+        }
+      ],
+      "inclusions": [
+        "Hotel",
+        "Tours",
+        "Train Tickets"
+      ],
+      "exclusions": [
+        "Meals",
+        "Flights"
+      ]
+    },
+    {
+      "id": "12",
+      "placeId": "4",
+      "name": "Machu Picchu Day Trip",
+      "price": 15000,
+      "duration": "1 Day",
+      "highlights": [
+        "Train",
+        "Bus",
+        "Guided Tour"
+      ],
+      "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Full Day Tour",
+          "description": "Early train from Cusco, bus to ruins, guided tour, return train."
+        }
+      ],
+      "inclusions": [
+        "Train",
+        "Bus",
+        "Entrance",
+        "Guide"
+      ],
+      "exclusions": [
+        "Food"
+      ]
+    },
+    {
+      "id": "13",
+      "placeId": "5",
+      "name": "Canyon Helicopter Tour",
+      "price": 25000,
+      "duration": "45 Mins",
+      "highlights": [
+        "Aerial View",
+        "South Rim",
+        "North Rim"
+      ],
+      "image": "https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Flight",
+          "description": "45-minute helicopter flight over the widest and deepest parts of the canyon."
+        }
+      ],
+      "inclusions": [
+        "Flight",
+        "Transfers"
+      ],
+      "exclusions": [
+        "Park Fee"
+      ]
+    },
+    {
+      "id": "14",
+      "placeId": "5",
+      "name": "Rim-to-Rim Hike",
+      "price": 10000,
+      "duration": "2 Days",
+      "highlights": [
+        "Hiking",
+        "Camping",
+        "Challenge"
+      ],
+      "image": "https://images.unsplash.com/photo-1527333656061-ca7adf608ae1?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Descent",
+          "description": "Hike down North Kaibab trail to Phantom Ranch."
+        },
+        {
+          "day": 2,
+          "title": "Ascent",
+          "description": "Hike up Bright Angel trail to South Rim."
+        }
+      ],
+      "inclusions": [
+        "Guide",
+        "Permits"
+      ],
+      "exclusions": [
+        "Camping Gear",
+        "Food"
+      ]
+    },
+    {
+      "id": "15",
+      "placeId": "5",
+      "name": "Sunset Bus Tour",
+      "price": 4000,
+      "duration": "3 Hours",
+      "highlights": [
+        "Best Viewpoints",
+        "Guide",
+        "Photos"
+      ],
+      "image": "https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Sunset Tour",
+          "description": "Visit Mohave Point and Hopi Point for sunset views."
+        }
+      ],
+      "inclusions": [
+        "Bus Tour",
+        "Guide"
+      ],
+      "exclusions": [
+        "Park Entry"
+      ]
+    },
+    {
+      "id": "16",
+      "placeId": "6",
+      "name": "Santorini Sunset Cruise",
+      "price": 12000,
+      "duration": "5 Hours",
+      "highlights": [
+        "Catamaran",
+        "Dinner",
+        "Sunset"
+      ],
+      "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Cruise",
+          "description": "Sail past the volcano and hot springs. BBQ dinner on board. Watch sunset from Oia."
+        }
+      ],
+      "inclusions": [
+        "Cruise",
+        "Dinner",
+        "Drinks",
+        "Transfers"
+      ],
+      "exclusions": [
+        "Towels"
+      ]
+    },
+    {
+      "id": "17",
+      "placeId": "7",
+      "name": "Kyoto Temple Tour",
+      "price": 8000,
+      "duration": "1 Day",
+      "highlights": [
+        "Kinkaku-ji",
+        "Fushimi Inari",
+        "Tea Ceremony"
+      ],
+      "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Temples & Shrines",
+          "description": "Visit Golden Pavilion, Nijo Castle, and Fushimi Inari Shrine."
+        }
+      ],
+      "inclusions": [
+        "Guide",
+        "Transport",
+        "Entrance Fees"
+      ],
+      "exclusions": [
+        "Lunch"
+      ]
+    },
+    {
+      "id": "18",
+      "placeId": "8",
+      "name": "Rio Carnival Experience",
+      "price": 20000,
+      "duration": "1 Night",
+      "highlights": [
+        "Parade",
+        "Costumes",
+        "Samba"
+      ],
+      "image": "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Sambadrome",
+          "description": "Watch the champion's parade at the Sambadrome with VIP box seats."
+        }
+      ],
+      "inclusions": [
+        "Tickets",
+        "Transfers",
+        "Buffet"
+      ],
+      "exclusions": [
+        "Costume Rental"
+      ]
+    },
+    {
+      "id": "20",
+      "placeId": "10",
+      "name": "NYC CityPASS",
+      "price": 12000,
+      "duration": "Flexible",
+      "highlights": [
+        "Empire State",
+        "Museums",
+        "Statue of Liberty"
+      ],
+      "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Flexible",
+          "description": "Visit 5 top attractions including Empire State Building, AMNH, and Statue of Liberty."
+        }
+      ],
+      "inclusions": [
+        "Entry to 5 Attractions"
+      ],
+      "exclusions": [
+        "Transport"
+      ]
+    },
+    {
+      "id": "22",
+      "placeId": "12",
+      "name": "Roman Holiday",
+      "price": 35000,
+      "duration": "3 Days",
+      "highlights": [
+        "Colosseum",
+        "Vatican",
+        "Trevi Fountain"
+      ],
+      "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Ancient Rome",
+          "description": "Colosseum and Forum tour."
+        }
+      ],
+      "inclusions": [
+        "Guide",
+        "Tickets"
+      ],
+      "exclusions": [
+        "Food"
+      ]
+    },
+    {
+      "id": "23",
+      "placeId": "13",
+      "name": "Sydney Escape",
+      "price": 55000,
+      "duration": "5 Days",
+      "highlights": [
+        "Opera House",
+        "Bondi Beach",
+        "Harbour Bridge"
+      ],
+      "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "City Tour",
+          "description": "Sydney sights."
+        }
+      ],
+      "inclusions": [
+        "Hotel",
+        "Tours"
+      ],
+      "exclusions": [
+        "Flights"
+      ]
+    },
+    {
+      "id": "24",
+      "placeId": "14",
+      "name": "Niagara Adventure",
+      "price": 10000,
+      "duration": "2 Days",
+      "highlights": [
+        "Boat Tour",
+        "Falls View",
+        "Clifton Hill"
+      ],
+      "image": "https://images.unsplash.com/photo-1533094602577-198d3beab8ea?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Falls",
+          "description": "Maid of the Mist boat tour."
+        }
+      ],
+      "inclusions": [
+        "Boat Ticket",
+        "Hotel"
+      ],
+      "exclusions": [
+        "Food"
+      ]
+    },
+    {
+      "id": "25",
+      "placeId": "15",
+      "name": "Mount Fuji Climb",
+      "price": 15000,
+      "duration": "2 Days",
+      "highlights": [
+        "Summit Hike",
+        "Sunrise",
+        "Hot Springs"
+      ],
+      "image": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Climb",
+          "description": "Hike to 8th station."
+        }
+      ],
+      "inclusions": [
+        "Guide",
+        "Hut Stay"
+      ],
+      "exclusions": [
+        "Gear"
+      ]
+    },
+    {
+      "id": "26",
+      "placeId": "16",
+      "name": "NYC Highlights",
+      "price": 25000,
+      "duration": "3 Days",
+      "highlights": [
+        "Statue of Liberty",
+        "Times Square",
+        "Central Park"
+      ],
+      "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Liberty",
+          "description": "Ferry to Liberty Island."
+        }
+      ],
+      "inclusions": [
+        "Ferry",
+        "Hotel"
+      ],
+      "exclusions": [
+        "Food"
+      ]
+    },
+    {
+      "id": "27",
+      "placeId": "17",
+      "name": "Banff Nature",
+      "price": 20000,
+      "duration": "4 Days",
+      "highlights": [
+        "Lake Louise",
+        "Moraine Lake",
+        "Hiking"
+      ],
+      "image": "https://images.unsplash.com/photo-1602641367680-e7191259249d?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZiUyMG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Lakes",
+          "description": "Visit famous lakes."
+        }
+      ],
+      "inclusions": [
+        "Transport",
+        "Guide"
+      ],
+      "exclusions": [
+        "Park Pass"
+      ]
+    },
+    {
+      "id": "29",
+      "placeId": "20",
+      "name": "Ha Long Bay Cruise",
+      "price": 15000,
+      "duration": "2 Days",
+      "highlights": [
+        "Overnight Boat",
+        "Kayaking",
+        "Caves"
+      ],
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Cruise",
+          "description": "Board junk boat."
+        }
+      ],
+      "inclusions": [
+        "Cruise",
+        "Meals"
+      ],
+      "exclusions": [
+        "Drinks"
+      ]
+    },
+    {
+      "id": "30",
+      "placeId": "21",
+      "name": "Angkor Wat Sunrise",
+      "price": 8000,
+      "duration": "1 Day",
+      "highlights": [
+        "Sunrise",
+        "Temples",
+        "Tuk Tuk"
+      ],
+      "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=1000&auto=format&fit=crop",
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Temples",
+          "description": "Small circuit tour."
+        }
+      ],
+      "inclusions": [
+        "Guide",
+        "Transport"
+      ],
+      "exclusions": [
+        "Pass"
+      ]
+    }
+  ]
+}
